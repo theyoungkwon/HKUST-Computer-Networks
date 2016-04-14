@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Socket_Programming", "Socket_Programming\Socket_Programming.vcproj", "{09192098-0746-4F9E-9804-E7C5B8FE36E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09192098-0746-4F9E-9804-E7C5B8FE36E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09192098-0746-4F9E-9804-E7C5B8FE36E6}.Debug|Win32.Build.0 = Debug|Win32
+		{09192098-0746-4F9E-9804-E7C5B8FE36E6}.Release|Win32.ActiveCfg = Release|Win32
+		{09192098-0746-4F9E-9804-E7C5B8FE36E6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
